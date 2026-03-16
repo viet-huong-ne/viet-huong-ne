@@ -1,25 +1,6 @@
-<p align="center">
-<svg width="100%" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+<img width="100%" height="220" viewBox="0 0 800 220" xmlns="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmN1MWx2czdtdW40ZmNkMGlpNXBjc3Q1bm5wd3Rib3o4cTNoZWlsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WIJwGBnqIBM9iDK/giphy.gif">
+</img>
 
-<!-- Sky -->
-<rect width="800" height="220" fill="#87CEEB"/>
-
-<!-- Sun -->
-<circle cx="650" cy="60" r="40" fill="#FFD93D"/>
-
-<!-- Clouds -->
-<g fill="white">
-<circle cx="150" cy="80" r="25"/>
-<circle cx="180" cy="70" r="30"/>
-<circle cx="210" cy="80" r="25"/>
-
-<circle cx="400" cy="100" r="22"/>
-<circle cx="430" cy="90" r="28"/>
-<circle cx="460" cy="100" r="22"/>
-</g>
-
-</svg>
-</p>
 <h1 align="center">👋 Hello, I'm Nguyen Viet Huong</h1>
 🎓 Student at **FPT University**
 💻 Backend Developer
