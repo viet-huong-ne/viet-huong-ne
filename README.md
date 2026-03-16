@@ -1,5 +1,24 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&height=220&color=FFD93D&text=Nguyen%20Viet%20Huong&fontAlign=50&fontAlignY=55&fontSize=45&fontColor=ffffff"/>
+<svg width="100%" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+
+<!-- Sky -->
+<rect width="800" height="220" fill="#87CEEB"/>
+
+<!-- Sun -->
+<circle cx="650" cy="60" r="40" fill="#FFD93D"/>
+
+<!-- Clouds -->
+<g fill="white">
+<circle cx="150" cy="80" r="25"/>
+<circle cx="180" cy="70" r="30"/>
+<circle cx="210" cy="80" r="25"/>
+
+<circle cx="400" cy="100" r="22"/>
+<circle cx="430" cy="90" r="28"/>
+<circle cx="460" cy="100" r="22"/>
+</g>
+
+</svg>
 </p>
 <h1 align="center">👋 Hello, I'm Nguyen Viet Huong</h1>
 🎓 Student at **FPT University**
