@@ -1,4 +1,4 @@
-<img width="100%" height="220" viewBox="0 0 800 220" xmlns="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmN1MWx2czdtdW40ZmNkMGlpNXBjc3Q1bm5wd3Rib3o4cTNoZWlsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WIJwGBnqIBM9iDK/giphy.gif">
+<img width="100%" height="220" viewBox="0 0 800 220" xmlns="https://giphy.com/media/v1.Y2lkPTc5MGI3NjExNmN1MWx2czdtdW40ZmNkMGlpNXBjc3Q1bm5wd3Rib3o4cTNoZWlsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WIJwGBnqIBM9iDK/giphy.gif">
 </img>
 
 <h1 align="center">👋 Hello, I'm Nguyen Viet Huong</h1>
