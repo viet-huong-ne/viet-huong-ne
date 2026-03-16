@@ -1,5 +1,4 @@
-<img alt="Banner" width="100%" src="https://giphy.com/media/v1.Y2lkPTc5MGI3NjExNmN1MWx2czdtdW40ZmNkMGlpNXBjc3Q1bm5wd3Rib3o4cTNoZWlsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WIJwGBnqIBM9iDK/giphy.gif">
-</img>
+<img alt="Banner" width="100%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmN1MWx2czdtdW40ZmNkMGlpNXBjc3Q1bm5wd3Rib3o4cTNoZWlsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WIJwGBnqIBM9iDK/giphy.gif"/>
 
 <h1 align="center">👋 Hello, I'm Nguyen Viet Huong</h1>
 🎓 Student at **FPT University**
