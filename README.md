@@ -1,52 +1,14 @@
 <p align="center">
-<svg width="100%" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="#0f2027"/>
-
-  <!-- Sun -->
-  <circle cx="400" cy="110" r="60" fill="#FDB813"/>
-
-  <!-- Sun rays -->
-  <g stroke="#FDB813" stroke-width="4">
-    <line x1="400" y1="20" x2="400" y2="60"/>
-    <line x1="400" y1="160" x2="400" y2="200"/>
-    <line x1="310" y1="110" x2="350" y2="110"/>
-    <line x1="450" y1="110" x2="490" y2="110"/>
-    <line x1="340" y1="50" x2="365" y2="75"/>
-    <line x1="435" y1="145" x2="460" y2="170"/>
-    <line x1="340" y1="170" x2="365" y2="145"/>
-    <line x1="435" y1="75" x2="460" y2="50"/>
-  </g>
-
-  <!-- Name -->
-  <text x="50%" y="120" text-anchor="middle" font-size="32" fill="white" font-family="Arial" font-weight="bold">
-    Nguyen Viet Huong
-  </text>
-
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=220&color=FFD93D&text=Nguyen%20Viet%20Huong&fontAlign=50&fontAlignY=55&fontSize=45&fontColor=ffffff"/>
 </p>
-
+<h1 align="center">👋 Hello, I'm Nguyen Viet Huong</h1>
 🎓 Student at **FPT University**
 💻 Backend Developer
 🌏 From **Quang Nam, Vietnam**
 
 I am passionate about building scalable backend systems, APIs, and integrating AI solutions into web applications.
 
----
-
-## 🚀 About Me
-
-* 🎓 Studying **Software Engineering at FPT University**
-* 💻 Focus on **Backend Development**
-* 🔧 Experienced with **ASP.NET Web API, Clean Architecture**
-* 🤖 Interested in **AI integration for web applications**
-* 🎮 Also enjoy **Unity Game Development**
-* 📱 Android development with **Java**
-
----
-
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,java,docker,spring,dotnet,cs,c,js,ts,react,postgres,mysql,mongodb,redis,nginx" />
